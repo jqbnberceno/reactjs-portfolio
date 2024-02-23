@@ -14,12 +14,14 @@
     "@react-three/drei": "^9.96.4",
     "@react-three/fiber": "^8.15.15",
     "framer-motion": "^11.0.3",
+    "gsap": "^3.12.5",
     "maath": "^0.10.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.3",
     "react-tilt": "^1.0.2",
-    "react-vertical-timeline-component": "^3.6.0"
+    "react-vertical-timeline-component": "^3.6.0",
+    "split-text-js": "^1.0.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
